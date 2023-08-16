@@ -1,4 +1,4 @@
-package com.Restful.microservice;
+package com.spring.microservice.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

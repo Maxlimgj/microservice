@@ -1,4 +1,4 @@
-package com.Restful.microservice;
+package com.spring.microservice.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
